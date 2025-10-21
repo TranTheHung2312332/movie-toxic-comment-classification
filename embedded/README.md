@@ -17,5 +17,5 @@ import numpy as np
 
 x_train = np.load('embedded/multilingual-e5-large/train.npy')
 x_valid = np.load('embedded/multilingual-e5-large/valid.npy')
-x_valid = np.load('embedded/multilingual-e5-large/valid.npy')
+x_test = np.load('embedded/multilingual-e5-large/test.npy')
 ```
